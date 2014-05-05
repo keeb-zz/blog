@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Sup Bro"
+date:   2014-05-03 
+categories: sup bro
+---
+
+I like girls
+
+{% highlight python %}
+def init(self):
+ print 'sup bro'
+{% endhighlight %}
+
+And bros
