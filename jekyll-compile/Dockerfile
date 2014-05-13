@@ -9,7 +9,6 @@ run gem install jekyll
 run apt-get install -y python
 
 volume /www
-onbuild add ./content /md
 add . /build
 workdir /build
 

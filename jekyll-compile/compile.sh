@@ -1,5 +1,5 @@
 #!/usr/bin/env
 
-cd /md
+cd /content
 jekyll build
 cp -r _site/* /www
