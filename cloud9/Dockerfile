@@ -17,5 +17,5 @@ expose 3131
 volume /www
 env IP 0.0.0.0
 
-cmd ["sh", "bin/cloud9.sh", "-w", "/www"]
+cmd ["sh", "bin/cloud9.sh", "-w", "/content"]
  
