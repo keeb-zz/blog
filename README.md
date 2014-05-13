@@ -121,7 +121,7 @@ If a different configuration is needed for whatever reason (ssl, certs, etc),
 Dockerfile and repo are available in the `nginx` directory.
 
 That being said, this is a durable static file hosting nginx, hosted behind a
-reverse proxy of some sort maybe (hipache)[http://github.com/dotcloud/hipache]
+reverse proxy of some sort maybe [hipache](http://github.com/dotcloud/hipache)
 
 
 ```
