@@ -110,6 +110,7 @@ creates a *volume* in /www
 $ cd jekyll-compile
 $ docker build -t jekyll-compile
 $ docker run -name v1 -volumes-from markdown compile
+```
 
 # Serving staticly with nginx
 
