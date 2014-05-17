@@ -224,14 +224,14 @@ z-index: 1;
 }
 
 .main section.page1 {
-background:rgb(230, 217, 200);
+background: #1F1B10;
 }
 .main section.page1 h1 {
 text-align: left;
 padding: 0;
 margin-bottom: 15px;
 font-size: 70px;
-color: black;
+color: #FFCF36;
 }
 .main section.page1 h2 {
 color: rgba(0,0,0,0.85);
@@ -249,7 +249,7 @@ width: 435px;
 text-align: center;
 }
 .main section.page2 {
-background: #555557 url(back-phone.png) no-repeat center -150px ;
+background: #555557 url(../img/docker.png) no-repeat center -150px;
 }
 .main section.page2 > img {
 position: absolute;
@@ -259,12 +259,11 @@ margin-left: -1095px;
 }
 .main section.page2 .page_container {
 margin-top: 240px;
-overflow: hidden;
 }
 .main section.page2 h1 {
-text-align: center;
+text-align: left;
+margin-top: -300px;
 padding: 0;
-margin-bottom: 15px;
 font-size: 50px;
 letter-spacing: -1px;
 color: white;
@@ -280,7 +279,7 @@ background: rgba(0, 0, 0, 0.25);
 color: #FFF;
 }
 .main section.page3 {
-background:url(tilted-phone.png) no-repeat 156px -150px ;
+background: #FFF;
 }
 .main section.page3 .page_container {
 overflow: hidden;
